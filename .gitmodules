@@ -1,0 +1,3 @@
+[submodule "envs"]
+	path = envs
+	url = git@github.com:gtukmachev/ca-cicd-envs.git
